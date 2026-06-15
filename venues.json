@@ -1,0 +1,170 @@
+{
+  "https://guidesforbrides.co.uk/late-availability": {
+    "name": "Guides for Brides \u2013 Late Availability Wedding Venues and Suppliers",
+    "location": "UK-wide",
+    "capacity": null,
+    "price_range": null,
+    "summary": "A search and directory tool on the Guides for Brides website allowing couples to find UK wedding venues and suppliers with confirmed available dates, particularly useful for those planning within the next 6 months."
+  },
+  "https://www.hedsor.com/weddings/availability": {
+    "name": "Hedsor House",
+    "location": "Taplow, Buckinghamshire",
+    "capacity": "up to 150 guests for a seated dinner, 250 for evening celebrations",
+    "price_range": "from \u00a35,950 (dry hire, season dependent)",
+    "summary": "Hedsor House is an exclusive-use, award-winning Georgian country house set within 100 acres of historic parkland in Buckinghamshire, recognised by Vogue and Tatler as a dream wedding venue, offering dry hire and curated all-inclusive wedding packages."
+  },
+  "https://alfristongardens.co.uk/2026-late-availability-offers/": {
+    "name": "Alfriston Gardens",
+    "location": "Alfriston, East Sussex",
+    "capacity": "up to 155 guests",
+    "price_range": "from \u00a39,400 (venue hire only); packages from \u00a317,700",
+    "summary": "Alfriston Gardens is an award-winning barn and garden wedding venue set within a two-acre estate in the South Downs National Park, East Sussex, offering exclusive hire of historic and contemporary barns, landscaped gardens, and on-site accommodation for up to 58 guests."
+  },
+  "https://battleabbeyweddings.com/locations-for-a-wedding/": {
+    "name": "Battle Abbey School",
+    "location": "Battle, East Sussex",
+    "capacity": "up to 250 guests (60 for smaller/partial site bookings, 120 seated for wedding breakfast, 150 for ceremonies)",
+    "price_range": "from \u00a34,000 (midweek off-season) to \u00a36,000 (summer Saturday) for venue hire",
+    "summary": "A historic and fairy-tale castle-style wedding venue set in the charming town of Battle, East Sussex, offering exclusive use of the Abbot's House and grounds overlooking one of England's most famous battlefields."
+  },
+  "https://www.weddings.suffolk.gov.uk/venues/approved-venues/lanwades-hall": {
+    "name": "Lanwades Hall",
+    "location": "Kentford, Suffolk",
+    "capacity": "up to 80 daytime guests, 130 for evening reception",
+    "price_range": "from \u00a32,350",
+    "summary": "Lanwades Hall is a romantic Edwardian country house set in secluded gardens near Newmarket, offering exclusive-use hire with four characterful state rooms, on-site accommodation, and licensed civil ceremony spaces for weddings."
+  },
+  "https://alfristongardens.co.uk/open-days/": {
+    "name": "Alfriston Gardens",
+    "location": "Alfriston, East Sussex",
+    "capacity": "up to 155 guests",
+    "price_range": "from \u00a39,400 (venue hire); packages from \u00a317,700",
+    "summary": "Alfriston Gardens is an award-winning barn wedding venue set within a two-acre estate in the South Downs National Park, offering stunning landscaped gardens, historic and contemporary barn spaces, and on-site accommodation for up to 58 guests."
+  },
+  "https://www.squaremeal.co.uk/things-to-do/wedding-fairs-and-open-days": {
+    "name": "Wedding Fairs and Open Days 2026 \u2013 SquareMeal",
+    "location": "UK-wide (not a single venue)",
+    "capacity": null,
+    "price_range": null,
+    "summary": "A SquareMeal listing page aggregating UK wedding fairs and venue open days in 2026, helping couples discover and visit potential wedding venues across the country."
+  },
+  "https://www.handpickedhotels.co.uk/fawsley-hall/weddings/showcase-events": {
+    "name": "Fawsley Hall Hotel & Spa",
+    "location": "Fawsley, Daventry, Northamptonshire",
+    "capacity": "up to 150 guests (ceremony), up to 250 guests (evening)",
+    "price_range": "from \u00a32,000 (intimate packages); from \u00a326,800 (exclusive hire)",
+    "summary": "Fawsley Hall Hotel & Spa is a historic 4-star Tudor country house hotel in rural Northamptonshire offering elegant wedding venues across its magnificent main house and self-contained Georgian Knightley Court, with capacity for up to 150 ceremony guests and 250 evening guests."
+  },
+  "https://www.lakedistrictcountryhotels.co.uk/merewood-hotel/weddings/wedding-open-days/": {
+    "name": "Merewood Country House Hotel",
+    "location": "Windermere, Lake District, Cumbria",
+    "capacity": "up to 30 guests (intimate packages); larger groups accommodated via full wedding packages",
+    "price_range": null,
+    "summary": "Merewood Country House Hotel is an award-winning, exclusive-use wedding venue set on a twenty-acre estate with panoramic views over Lake Windermere, offering a range of packages from intimate elopements to full celebrations."
+  },
+  "https://weddingvenues.co.uk/wedding-shows-open-days/": {
+    "name": null,
+    "location": null,
+    "capacity": null,
+    "price_range": null,
+    "summary": "This URL is not a specific wedding venue \u2014 it is an editorial listing page on weddingvenues.co.uk that aggregates UK wedding shows, fairs, and venue open days for 2026, and contains no data for a single bookable venue."
+  },
+  "https://www.ribbyhall.co.uk/your-wedding/wedding-open-days": {
+    "name": "Ribby Hall Village",
+    "location": "Wrea Green, Lancashire (near Preston)",
+    "capacity": "up to 350 guests (largest suite)",
+    "price_range": "from \u00a34,495",
+    "summary": "Ribby Hall Village is a 5-star countryside holiday village and wedding venue set in over 100 acres of Lancashire countryside near Preston, offering multiple suites for up to 350 guests, on-site accommodation, and award-winning spa facilities."
+  },
+  "https://www.downhall.co.uk/weddings/wedding-venue-open-day": {
+    "name": "Down Hall Hotel, Spa & Estate",
+    "location": "Hatfield Heath, Essex (near Bishop's Stortford, Hertfordshire/Essex border)",
+    "capacity": "up to 180 guests (seated dinner); up to 250 guests (evening reception)",
+    "price_range": "from \u00a3165 per person",
+    "summary": "Down Hall is a historic Grade II*-listed Italianate country house hotel set in 110 acres of parkland on the Essex/Hertfordshire border, offering luxurious wedding packages with multiple licensed suites, a day spa, and 98 guest rooms."
+  },
+  "https://www.fennes.co.uk/events/open-days": {
+    "name": "Fennes",
+    "location": "Bocking, Braintree, Essex",
+    "capacity": "up to 500 guests",
+    "price_range": null,
+    "summary": "Fennes is an award-winning, exclusive-use Georgian manor house wedding venue set in 100 acres of Essex countryside, offering a range of licensed ceremony rooms, a chandelier-lit pavilion, and a banqueting hall for intimate to large celebrations."
+  },
+  "https://guidesforbrides.co.uk/wedding-fairs": {
+    "name": "Guides for Brides \u2013 Wedding Fairs & Events",
+    "location": "UK-wide (primarily Oxfordshire, Buckinghamshire, Berkshire, Hampshire, and Hertfordshire)",
+    "capacity": null,
+    "price_range": null,
+    "summary": "Guides for Brides is an online wedding planning platform that hosts a nationwide Wedding Fair Diary, listing local and national wedding fairs, exhibitions, and shows to help couples find venues and suppliers across the UK."
+  },
+  "https://www.thegreatbarndevon.co.uk/": {
+    "name": "The Great Barn Devon",
+    "location": "Higher Ashton, near Exeter, Devon",
+    "capacity": "up to 198 seated (up to 250 standing)",
+    "price_range": "from \u00a34,500",
+    "summary": "A stunning 15th-century thatched barn set within a 120-acre private estate near Exeter, offering exclusive-use luxury wedding weekends with in-house catering and on-site accommodation for up to 30 guests."
+  },
+  "https://kingscotebarn.co.uk/": {
+    "name": "Kingscote Barn",
+    "location": "Tetbury, Gloucestershire, Cotswolds",
+    "capacity": "up to 200 guests (evening reception); up to 150 for wedding breakfast",
+    "price_range": "from \u00a35,750",
+    "summary": "Kingscote Barn is a lovingly restored 17th-century Cotswold stone barn set in a secluded valley near Tetbury, offering exclusive use, on-site accommodation for up to 50 guests, and stunning countryside views for weddings of up to 200 guests."
+  },
+  "https://www.wasing.co.uk/wedding-venue/": {
+    "name": "Wasing Park",
+    "location": "Aldermaston, Berkshire",
+    "capacity": "up to 160 dining guests, 250 evening guests",
+    "price_range": "from \u00a33,150",
+    "summary": "Wasing Park is an award-winning, exclusive-use Grade II listed barn wedding venue set within a 4,000-acre Berkshire estate, offering multiple ceremony spaces, estate-to-plate dining, and 26 boutique bedrooms."
+  },
+  "https://www.edenbarn.co.uk/": {
+    "name": "Eden Barn",
+    "location": "Kirkby Stephen, Cumbria",
+    "capacity": "up to 144 guests for wedding breakfast, up to 200 evening guests",
+    "price_range": "from \u00a33,000 to \u00a39,900 (venue hire, depending on day and month)",
+    "summary": "Eden Barn is a family-run, exclusive 200-year-old Westmorland stone barn set in 100 acres of the Upper Eden Valley, offering rustic, licensed wedding ceremonies and receptions with panoramic Pennine hill views."
+  },
+  "https://oxfordshire.gov.uk/residents/communities/births-deaths-and-ceremonies/celebrate-your-special-day/marriages/places-get-married/approved-venues-civil-ceremonies/caswell-house-barns": {
+    "name": "Caswell House Barns",
+    "location": "Brize Norton, Oxfordshire (Cotswolds)",
+    "capacity": "up to 140 seated / 200 evening guests",
+    "price_range": "from \u00a34,750",
+    "summary": "Caswell House Barns is an exclusive 15th-century Cotswold barn wedding venue in Oxfordshire, offering lovingly restored medieval barns with flagstone floors, oak beams, landscaped gardens, and 16 en-suite bedrooms for a fully private wedding retreat."
+  },
+  "https://www.plasdinamcountryhouse.co.uk/country-house-weddings/": {
+    "name": "Plas Dinam Country House",
+    "location": "Llandinam, Powys, Mid Wales",
+    "capacity": "up to 160 guests",
+    "price_range": "from \u00a317,400",
+    "summary": "Plas Dinam is an exclusive-use, family-run Grade II listed Welsh mansion with a glass-roofed Stables party barn, 15 bedrooms, and 12 acres of grounds, offering full weekend wedding hire with accommodation in the heart of Mid Wales."
+  },
+  "https://www.uniquehomestays.com/unique-escapes/country-house-wedding-venues/uk/england/": {
+    "name": "Unique Homestays \u2013 Country House Wedding Venues (England)",
+    "location": "England, UK (multiple locations including the Cotswolds, Devon, Lake District, and Cornwall)",
+    "capacity": "Varies by property; examples range from up to 40 to up to 110 wedding guests",
+    "price_range": null,
+    "summary": "Unique Homestays offers a curated collection of exclusive-use country house wedding venues across England, spanning historic barns, luxury manors, and coastal retreats, each available for private hire and tailored to individual celebrations."
+  },
+  "https://weddingplanner.co.uk/country-house-wedding-venues": {
+    "name": "Country House Wedding Venues - WeddingPlanner.co.uk",
+    "location": "UK-wide (multiple regions)",
+    "capacity": null,
+    "price_range": null,
+    "summary": "A directory page on WeddingPlanner.co.uk listing country house wedding venues across the UK, allowing couples to browse, filter by price and availability, and view styles, photos, and reviews."
+  },
+  "https://www.huntshamcourt.co.uk/": {
+    "name": "Huntsham Court",
+    "location": "Huntsham, Tiverton, Devon",
+    "capacity": "up to 130 guests (dining); up to 100 guests overnight across 42 bedrooms",
+    "price_range": "from \u00a311,303 (2-night exclusive hire including accommodation)",
+    "summary": "Huntsham Court is an award-winning, exclusive-use Victorian country estate in Devon offering flexible, fully private hire for weddings in a grand yet relaxed setting with 42 luxury bedrooms and sweeping gardens."
+  },
+  "https://www.weddings.suffolk.gov.uk/asset-library/april-15-bruisyard-country-estate-2025-2026-winter-wedding-offer.pdf": {
+    "name": "Bruisyard Country Estate",
+    "location": "Bruisyard, Saxmundham, Suffolk",
+    "capacity": "up to 140 seated guests (barn); up to 30 guests (hall)",
+    "price_range": null,
+    "summary": "A historic 700-acre exclusive-hire country estate near the Suffolk Coast, offering a restored medieval barn and elegant hall for multi-day wedding celebrations with on-site accommodation for up to 30 guests."
+  }
+}
